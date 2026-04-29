@@ -89,6 +89,4 @@ Developed by Chanuka Jayasundara as an individual university project for the Web
 
 ## Note
 
-## Note
-
 This project was created as a learning-based academic project to practise frontend web development concepts. It was built while learning from online resources and applying the concepts in my own project structure. It represents my early experience in building web interfaces using HTML, CSS, and JavaScript.
