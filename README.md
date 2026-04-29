@@ -4,6 +4,10 @@ TechTronics is a frontend e-commerce website developed as an individual universi
 
 This project focuses on frontend design, user interface development, and basic client-side interactivity using HTML, CSS, and JavaScript.
 
+## Live Demo
+
+[View TechTronics Website](https://cjdebug.github.io/techtronics-ecommerce-frontend/)
+
 ## Project Overview
 
 The main purpose of TechTronics is to provide users with a simple and user-friendly online shopping interface where they can browse products by brand, view product cards, and add items to a shopping cart.
