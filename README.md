@@ -89,7 +89,7 @@ Through this project, I improved my understanding of:
 
 ## Author
 
-Developed by Chanuka Jayasundara as an individual university project for the Web Application Development module.
+Developed by **Chanuka Jayasundara** as an individual university project for the Web Application Development module.
 
 ## Note
 
